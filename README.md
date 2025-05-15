@@ -1,4 +1,4 @@
-COMPARING VARYING ACCURACIES IN DIFFERENT MACHINE LEARNING ALGORITHMS
+**COMPARING VARYING ACCURACIES IN DIFFERENT MACHINE LEARNING ALGORITHMS**
 
 A training and testing dataset has been taken, And it got trained with various ML models such as, 
 
